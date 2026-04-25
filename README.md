@@ -41,40 +41,6 @@ The dataset includes 81 engineered physical and chemical features, such as:
 
 ---
 
-## 🧠 Methodology
-
-1. **Data Preprocessing**
-   - Handling missing values  
-   - Feature scaling / normalization  
-   - Train-test split  
-
-2. **Exploratory Data Analysis (EDA)**
-   - Correlation analysis  
-   - Feature importance exploration  
-   - Distribution of Tc  
-
-3. **Modeling**
-   - Linear Regression  
-   - Random Forest Regressor  
-   - Gradient Boosting (e.g., XGBoost, LightGBM)  
-   - Neural Networks (optional)  
-
-4. **Evaluation Metrics**
-   - Mean Absolute Error (MAE)  
-   - Mean Squared Error (MSE)  
-   - Root Mean Squared Error (RMSE)  
-   - R² Score  
-
----
-
-## 📈 Expected Results
-
-- Identify key features influencing superconductivity  
-- Achieve strong predictive performance on unseen data  
-- Compare model performance and generalization ability  
-
----
-
 ## 📚 References
 
 - UCI Machine Learning Repository:  
