@@ -41,13 +41,6 @@ The dataset includes 81 engineered physical and chemical features, such as:
 
 ---
 
-## ⚙️ Problem Type
-
-- **Supervised Learning**  
-- **Regression Task**  
-
----
-
 ## 🧠 Methodology
 
 1. **Data Preprocessing**
@@ -82,66 +75,8 @@ The dataset includes 81 engineered physical and chemical features, such as:
 
 ---
 
-## 🛠️ Technologies
-
-- Python  
-- NumPy / Pandas  
-- Scikit-learn  
-- Matplotlib / Seaborn  
-- (Optional) TensorFlow / PyTorch  
-
----
-
-## 🚀 How to Run
-
-```bash
-# Clone the repository
-git clone <your-repo-url>
-
-# Navigate to the project folder
-cd superconductivity-prediction
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the main script
-python main.py
-```
-
----
-
-## 📂 Project Structure
-
-```
-├── data/                
-├── notebooks/           
-├── src/                 
-│   ├── preprocessing.py
-│   ├── train.py
-│   ├── evaluate.py
-├── models/              
-├── results/             
-├── README.md
-```
-
----
-
-## 🔍 Future Improvements
-
-- Feature selection and dimensionality reduction  
-- Hyperparameter optimization  
-- Deep learning approaches  
-- Model interpretability (SHAP, LIME)  
-
----
-
 ## 📚 References
 
 - UCI Machine Learning Repository:  
-  https://archive.ics.uci.edu/ml/datasets/Superconductivty+Data  
-
----
-
-## 👤 Author
-
-- Your Name
+  https://archive.ics.uci.edu/ml/datasets/Superconductivty+Data
+  
